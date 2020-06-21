@@ -2,6 +2,7 @@ site_name: PIGLET
 nav:
      - PIGLET: index.md
      - Use Cases: use-cases.md
-     - Glossary: glossary.md
      - Ethical Considerations: ethical-considerations.md
+     - Useful Commands: useful-commands.md
+     - Glossary: glossary.md
 theme: readthedocs

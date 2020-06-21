@@ -3,7 +3,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ## Products
 - [Use Cases](use-cases.md)
-- [Glossary](glossary.md)
 - [Ethical Considerations](ethical-considerations.md)
+- [Useful Commands](useful-commands.md)
+- [Glossary](glossary.md)
 
 ## Get in Touch
