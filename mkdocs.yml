@@ -1,0 +1,7 @@
+site_name: PIGLET
+nav:
+     - Home: index.md
+     - Use Cases: use-cases.md
+     - Glossary: glossary.md
+     - About: about.md
+theme: readthedocs
