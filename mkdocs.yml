@@ -1,7 +1,8 @@
 site_name: PIGLET
 nav:
-     - Home: index.md
+     - PIGLET: index.md
      - Use Cases: use-cases.md
      - Glossary: glossary.md
+     - Ethical Considerations: ethical-considerations.md
      - About: about.md
 theme: readthedocs
